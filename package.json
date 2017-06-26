@@ -2,8 +2,6 @@
   "name": "geek-vue",
   "version": "1.0.0",
   "description": "UI Component Library",
-  "author": "sudheerj <jsudheer50@gmail.com>",
-  "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
